@@ -1,1 +1,16 @@
+{
+  "case_id": "TRAUMA_ANKLE_001",
+  "title": "Open ankle fracture-dislocation",
+  "stem": "30M motorcycle crash. Grossly deformed ankle, bleeding wound, diminished pulses initially. X-rays provided.",
+  "expected_points": [
+    "ATLS principles and analgesia",
+    "Neurovascular assessment + compartment vigilance",
+    "Urgent reduction and splintage",
+    "IV antibiotics, tetanus, wound care",
+    "Imaging (ankle + tib/fib), CT if needed after reduction",
+    "Operative plan: debridement, stabilisation strategy, staged fixation",
+    "Complications: infection, nonunion, stiffness, arthritis, neurovascular compromise"
+  ],
+  "rubric_weights": { "safety": 0.3, "structure": 0.2, "judgement": 0.3, "knowledge": 0.2 }
+}
 
